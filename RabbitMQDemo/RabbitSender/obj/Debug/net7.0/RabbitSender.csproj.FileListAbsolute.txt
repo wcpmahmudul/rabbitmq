@@ -1,0 +1,17 @@
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.exe
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.deps.json
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.runtimeconfig.json
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.dll
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.pdb
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.csproj.AssemblyReference.cache
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.AssemblyInfoInputs.cache
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.AssemblyInfo.cs
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.csproj.CoreCompileInputs.cache
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.csproj.CopyComplete
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.dll
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\refint\RabbitSender.dll
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.pdb
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.genruntimeconfig.cache
+D:\Project\Personal World\Asp.Net\Practise\RabbitMQ\rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\ref\RabbitSender.dll
