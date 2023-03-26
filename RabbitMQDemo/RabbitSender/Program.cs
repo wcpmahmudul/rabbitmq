@@ -18,9 +18,13 @@ channel.ExchangeDeclare(exchangeName, ExchangeType.Direct);
 channel.QueueDeclare(queueName, durable: false, exclusive: false, autoDelete: false, arguments: null);
 channel.QueueBind(queueName, exchangeName, routingKey, arguments: null);
 
-byte[] messageBodyBytes = Encoding.UTF8.GetBytes("Hello MQ");
-
-channel.BasicPublish(exchangeName, routingKey, basicProperties: null, messageBodyBytes);
+for(int i = 0; i < 10; i++)
+{
+    Console.WriteLine($"Sending Message {i}");
+    byte[] messageBodyBytes = Encoding.UTF8.GetBytes($"Message #{i}");
+    channel.BasicPublish(exchangeName, routingKey, basicProperties: null, messageBodyBytes);
+    Thread.Sleep(1000);
+}
 
 channel.Close();
 cnn.Close();

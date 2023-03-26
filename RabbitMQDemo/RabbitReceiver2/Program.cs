@@ -20,7 +20,7 @@ channel.QueueDeclare(queueName, durable: false, exclusive: false, autoDelete: fa
 channel.QueueBind(queueName, exchangeName, routingKey, arguments: null);
 channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);
 
-var consumer =  new EventingBasicConsumer(channel);
+var consumer = new EventingBasicConsumer(channel);
 consumer.Received += (sender, args) =>
 {
     Task.Delay(TimeSpan.FromSeconds(5)).Wait();

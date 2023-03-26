@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitSender", "RabbitSender\RabbitSender.csproj", "{71F4CFC3-1B0D-469B-97AD-9715D268976D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitReceiver1", "RabbitReceiver1\RabbitReceiver1.csproj", "{B763A63C-733B-4330-88DD-9296500CD318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitReceiver2", "RabbitReceiver2\RabbitReceiver2.csproj", "{5BC2F8C1-AB3B-45C8-8252-BD1F686C7BDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{71F4CFC3-1B0D-469B-97AD-9715D268976D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71F4CFC3-1B0D-469B-97AD-9715D268976D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F4CFC3-1B0D-469B-97AD-9715D268976D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B763A63C-733B-4330-88DD-9296500CD318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B763A63C-733B-4330-88DD-9296500CD318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B763A63C-733B-4330-88DD-9296500CD318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B763A63C-733B-4330-88DD-9296500CD318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC2F8C1-AB3B-45C8-8252-BD1F686C7BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC2F8C1-AB3B-45C8-8252-BD1F686C7BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC2F8C1-AB3B-45C8-8252-BD1F686C7BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC2F8C1-AB3B-45C8-8252-BD1F686C7BDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
